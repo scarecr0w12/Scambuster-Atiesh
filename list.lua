@@ -31,33 +31,40 @@ t.case_table = {
 
     -- The below are all valid configurations.
     [1] = {
-        name = "Arthas",
-        guid = "Player-some-guid12",
-        category = "raid",
-        description = "Got a bit too upset at demons and had a strop.",
-        url = "https://discord.com/channels/some_discord/channel2",
+        name = "Kevinyamzfat",
+        guid = "",
+        category = "harassent",
+        description = "Abusive and Racist mail sent in game to another player",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1063524876163502110",
         class = "DEATHKNIGHT"
     },
 
     [2] = {
-        name = "Sylvanas",
-        category = "harassment",
-        url = "https://some_other_url.com/war_of_the_thorns",
+        name = "Memes",
+        guid = "Player-4372-032779CA",
+        category = "raid",
+        description = "bubble pulled a raid boss",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1061406503195656343",
+        class = "PALADIN"
     },
 
     [3] = {
-        name = "Gallywix",
-        category = "trade",
-        description = "Did not honor payment for boat travel services.",
-        url = "https://www.wowhead.com/guide/story-goblin-starting-area-lore",
+        name = "Harisonfjord",
+        guid = "Player-4372-0343ABB4",
+        category = "harassment",
+        description = "Harassment and trolling of other players, including racist remarks. Intentional griefing of other players via raid lockout.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "MAGE"
     },
 
     [4] = {
-        name = "Swedger",
-        category = "raid",
-        url = "https://some_other_url.com/evidence",
+        name = "Shotgun",
+        guid = "Player-4372-03347ED8",
+        category = "harassment",
+        description = "Harassing players for farming in same area as him. Implying the N word without using N to avoid getting reported",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1053827476159221800",
+        class = "HUNTER"
     }
-
 }
 
 
