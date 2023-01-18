@@ -1,0 +1,13 @@
+## Interface: 30400
+## Title: Scambuster-Atiesh
+## Notes: Atiesh list for Scambuster
+## Author: Swedge
+## Modified By: Scarecr0w12
+## Version: 1.0.0
+## DefaultState: enabled
+## Dependencies: Scambuster
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
