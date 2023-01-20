@@ -65,6 +65,7 @@ t.case_table = {
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1053827476159221800",
         class = "HUNTER"
     }
+    
 }
 
 

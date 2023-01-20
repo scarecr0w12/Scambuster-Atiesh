@@ -1,9 +1,12 @@
-## Interface: 30400
+## Interface: 30401
 ## Title: Scambuster-Atiesh
 ## Notes: Atiesh list for Scambuster
 ## Author: Swedge
-## Modified By: Scarecr0w12
-## Version: 1.0.0
+## Author: Scarecr0w12
+## Version: 0.0.1
+## X-Category: Spam
+## X-Curse-Project-ID: 814884
+## Notes: This is a curated list from the Atiesh-server discord #Server-alerts. It is not a complete list, but it is a start.
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 
