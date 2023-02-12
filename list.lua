@@ -64,8 +64,89 @@ t.case_table = {
         description = "Harassing players for farming in same area as him. Implying the N word without using N to avoid getting reported",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1053827476159221800",
         class = "HUNTER"
-    }
+    },
     
+    [5] = {
+        name = "Lichbonz",
+        guid = "Player-4372-03A67660",
+        category = "raid",
+        description = "Attempted to steal a raid lockout from a guild.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1074025798916382722",
+        class = "WARRIOR"
+    },
+
+    [6] = {
+        name = "Bdsmmage",
+        guid = "Player-4372-02FFE59A",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "WARLOCK"
+    },
+    [7] = {
+        name = "Serickk",
+        guid = "Player-4372-036EAFB3",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "PALADIN"
+    },
+    [8] = {
+        name = "Moojj",
+        guid = "Player-4372-037A1BB2",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "SHAMAN"
+    },
+    [9] = {
+        name = "Femboyirl",
+        guid = "Player-4372-037475E5",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "WARRIOR"
+    },
+    [10] = {
+        name = "Athelaz",
+        guid = "Player-4372-020E3B9B",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "PRIEST"
+    },
+    [11] = {
+        name = "Grour",
+        guid = "Player-4372-037047F6",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "PALADIN"
+    },
+    [12] = {
+        name = "Testikewls",
+        guid = "Player-4372-03704804",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "DEATHKNIGHT"
+    },
+    [13] = {
+        name = "Grainbin",
+        guid = "Player-4372-036E34F5",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "DEATHKNIGHT"
+    },
+    [14] = {
+        name = "Lardlady",
+        guid = "Player-4372-0343A9A0",
+        category = "harassment",
+        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
+        class = "ROGUE"
+    }
 }
 
 
