@@ -79,7 +79,7 @@ t.case_table = {
         name = "Bdsmmage",
         guid = "Player-4372-02FFE59A",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "WARLOCK"
     },
@@ -87,7 +87,7 @@ t.case_table = {
         name = "Serickk",
         guid = "Player-4372-036EAFB3",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "PALADIN"
     },
@@ -95,7 +95,7 @@ t.case_table = {
         name = "Moojj",
         guid = "Player-4372-037A1BB2",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "SHAMAN"
     },
@@ -103,7 +103,7 @@ t.case_table = {
         name = "Femboyirl",
         guid = "Player-4372-037475E5",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "WARRIOR"
     },
@@ -111,7 +111,7 @@ t.case_table = {
         name = "Athelaz",
         guid = "Player-4372-020E3B9B",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "PRIEST"
     },
@@ -119,7 +119,7 @@ t.case_table = {
         name = "Grour",
         guid = "Player-4372-037047F6",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "PALADIN"
     },
@@ -127,7 +127,7 @@ t.case_table = {
         name = "Testikewls",
         guid = "Player-4372-03704804",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "DEATHKNIGHT"
     },
@@ -135,7 +135,7 @@ t.case_table = {
         name = "Grainbin",
         guid = "Player-4372-036E34F5",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "DEATHKNIGHT"
     },
@@ -143,9 +143,25 @@ t.case_table = {
         name = "Lardlady",
         guid = "Player-4372-0343A9A0",
         category = "harassment",
-        description = "Apart of EBT and Attitude, Avoid at all costs, report when needed.",
+        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "ROGUE"
+    },
+    [15] = {
+        name = "Selène",
+        guid = "Player-4372-02029818",
+        category = "raid",
+        description = "Roll stacking for guild member in raid as Loot Master",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1075841786083291207",
+        class = "PRIEST"
+    },
+    [16] = {
+        name = "Selène",
+        guid = "Player-4372-034E06F6",
+        category = "raid",
+        description = "Ninja looting in raid",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1076560442215907359",
+        class = "MAGE"
     }
 }
 
