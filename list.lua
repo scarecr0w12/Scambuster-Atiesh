@@ -132,14 +132,6 @@ t.case_table = {
         class = "DEATHKNIGHT"
     },
     [13] = {
-        name = "Grainbin",
-        guid = "Player-4372-036E34F5",
-        category = "harassment",
-        description = "Member of EBT and Attitude, refer to Atiesh server alerts for more information",
-        url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
-        class = "DEATHKNIGHT"
-    },
-    [14] = {
         name = "Lardlady",
         guid = "Player-4372-0343A9A0",
         category = "harassment",
@@ -147,7 +139,7 @@ t.case_table = {
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1060282656992014397",
         class = "ROGUE"
     },
-    [15] = {
+    [14] = {
         name = "Selène",
         guid = "Player-4372-02029818",
         category = "raid",
@@ -155,13 +147,29 @@ t.case_table = {
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1075841786083291207",
         class = "PRIEST"
     },
-    [16] = {
-        name = "Selène",
+    [15] = {
+        name = "Travenx",
         guid = "Player-4372-034E06F6",
         category = "raid",
         description = "Ninja looting in raid",
         url = "https://discord.com/channels/600375939951493130/983950174051258428/1076560442215907359",
         class = "MAGE"
+    },
+    [16] = {
+        name = "Frostlyn",
+        guid = "Player-4372-018B2CB9",
+        category = "raid",
+        description = "Ninja looting in raid",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1082093935322747002",
+        class = "MAGE"
+    },
+    [17] = {
+        name = "Zenosa",
+        guid = "Player-4372-03215A2F",
+        category = "raid",
+        description = "Ninja looting in raid",
+        url = "https://discord.com/channels/600375939951493130/983950174051258428/1081358366804295711",
+        class = "DEATHKNIGHT"
     }
 }
 
